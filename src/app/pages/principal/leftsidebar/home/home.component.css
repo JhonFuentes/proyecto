@@ -1,0 +1,8 @@
+.card{
+    margin-top: 20px;
+    width: 500px;
+    border-color: black;
+}
+.card-header{
+    border-color: black;
+}
